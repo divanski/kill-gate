@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "device": "cuda",
+    "model": "fastino/gliner2-privacy-filter-PII-multi",
+    "vram_peak_gb": 1.37,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti"
+  },
+  "results": {
+    "en": {
+      "examples": 2000,
+      "seconds": 36.7,
+      "stats": {
+        "GIVENNAME": {
+          "gold": 2072,
+          "recalled": 1761,
+          "recalled_strict": 1235,
+          "pred": 2011,
+          "pred_tp": 1801
+        },
+        "SURNAME": {
+          "gold": 1813,
+          "recalled": 527,
+          "recalled_strict": 355,
+          "pred": 611,
+          "pred_tp": 546
+        },
+        "TITLE": {
+          "gold": 1164,
+          "recalled": 152,
+          "recalled_strict": 151,
+          "pred": 165,
+          "pred_tp": 150
+        },
+        "DATE": {
+          "gold": 2020,
+          "recalled": 1986,
+          "recalled_strict": 1981,
+          "pred": 2078,
+          "pred_tp": 1986
+        },
+        "CITY": {
+          "gold": 1178,
+          "recalled": 1073,
+          "recalled_strict": 1053,
+          "pred": 1132,
+          "pred_tp": 1073
+        },
+        "STREET": {
+          "gold": 845,
+          "recalled": 826,
+          "recalled_strict": 204,
+          "pred": 866,
+          "pred_tp": 827
+        },
+        "BUILDINGNUM": {
+          "gold": 806,
+          "recalled": 49,
+          "recalled_strict": 38,
+          "pred": 50,
+          "pred_tp": 49
+        },
+        "ZIPCODE": {
+          "gold": 744,
+          "recalled": 609,
+          "recalled_strict": 604,
+          "pred": 738,
+          "pred_tp": 613
+        },
+        "EMAIL": {
+          "gold": 1305,
+          "recalled": 1305,
+          "recalled_strict": 1301,
+          "pred": 1314,
+          "pred_tp": 1305
+        },
+        "TELEPHONENUM": {
+          "gold": 954,
+          "recalled": 949,
+          "recalled_strict": 894,
+          "pred": 1004,
+          "pred_tp": 949
+        },
+        "AGE": {
+          "gold": 775,
+          "recalled": 655,
+          "recalled_strict": 498,
+          "pred": 662,
+          "pred_tp": 639
+        },
+        "GENDER": {
+          "gold": 475,
+          "recalled": 361,
+          "recalled_strict": 358,
+          "pred": 423,
+          "pred_tp": 360
+        },
+        "SEX": {
+          "gold": 346,
+          "recalled": 292,
+          "recalled_strict": 288,
+          "pred": 519,
+          "pred_tp": 289
+        },
+        "CREDITCARDNUMBER": {
+          "gold": 521,
+          "recalled": 368,
+          "recalled_strict": 367,
+          "pred": 442,
+          "pred_tp": 368
+        },
+        "IDCARDNUM": {
+          "gold": 462,
+          "recalled": 296,
+          "recalled_strict": 296,
+          "pred": 587,
+          "pred_tp": 296
+        },
+        "DRIVERLICENSENUM": {
+          "gold": 471,
+          "recalled": 236,
+          "recalled_strict": 234,
+          "pred": 283,
+          "pred_tp": 236
+        },
+        "TAXNUM": {
+          "gold": 438,
+          "recalled": 323,
+          "recalled_strict": 323,
+          "pred": 662,
+          "pred_tp": 323
+        },
+        "SOCIALNUM": {
+          "gold": 429,
+          "recalled": 260,
+          "recalled_strict": 260,
+          "pred": 566,
+          "pred_tp": 260
+        },
+        "PASSPORTNUM": {
+          "gold": 345,
+          "recalled": 170,
+          "recalled_strict": 169,
+          "pred": 186,
+          "pred_tp": 170
+        }
+      }
+    },
+    "bg": {
+      "examples": 2000,
+      "seconds": 35.1,
+      "stats": {
+        "GIVENNAME": {
+          "gold": 1791,
+          "recalled": 1515,
+          "recalled_strict": 1034,
+          "pred": 1868,
+          "pred_tp": 1533
+        },
+        "SURNAME": {
+          "gold": 1619,
+          "recalled": 448,
+          "recalled_strict": 329,
+          "pred": 572,
+          "pred_tp": 466
+        },
+        "TITLE": {
+          "gold": 999,
+          "recalled": 78,
+          "recalled_strict": 77,
+          "pred": 110,
+          "pred_tp": 78
+        },
+        "DATE": {
+          "gold": 1843,
+          "recalled": 1829,
+          "recalled_strict": 1788,
+          "pred": 1895,
+          "pred_tp": 1829
+        },
+        "CITY": {
+          "gold": 1114,
+          "recalled": 1082,
+          "recalled_strict": 405,
+          "pred": 1198,
+          "pred_tp": 1161
+        },
+        "STREET": {
+          "gold": 730,
+          "recalled": 605,
+          "recalled_strict": 70,
+          "pred": 752,
+          "pred_tp": 608
+        },
+        "BUILDINGNUM": {
+          "gold": 726,
+          "recalled": 40,
+          "recalled_strict": 29,
+          "pred": 45,
+          "pred_tp": 40
+        },
+        "ZIPCODE": {
+          "gold": 664,
+          "recalled": 643,
+          "recalled_strict": 638,
+          "pred": 709,
+          "pred_tp": 643
+        },
+        "EMAIL": {
+          "gold": 1217,
+          "recalled": 1217,
+          "recalled_strict": 1216,
+          "pred": 1225,
+          "pred_tp": 1217
+        },
+        "TELEPHONENUM": {
+          "gold": 939,
+          "recalled": 937,
+          "recalled_strict": 884,
+          "pred": 1045,
+          "pred_tp": 937
+        },
+        "AGE": {
+          "gold": 740,
+          "recalled": 627,
+          "recalled_strict": 351,
+          "pred": 639,
+          "pred_tp": 625
+        },
+        "GENDER": {
+          "gold": 446,
+          "recalled": 335,
+          "recalled_strict": 334,
+          "pred": 431,
+          "pred_tp": 334
+        },
+        "SEX": {
+          "gold": 521,
+          "recalled": 487,
+          "recalled_strict": 481,
+          "pred": 709,
+          "pred_tp": 485
+        },
+        "CREDITCARDNUMBER": {
+          "gold": 510,
+          "recalled": 431,
+          "recalled_strict": 431,
+          "pred": 529,
+          "pred_tp": 431
+        },
+        "IDCARDNUM": {
+          "gold": 529,
+          "recalled": 368,
+          "recalled_strict": 367,
+          "pred": 597,
+          "pred_tp": 368
+        },
+        "DRIVERLICENSENUM": {
+          "gold": 506,
+          "recalled": 329,
+          "recalled_strict": 329,
+          "pred": 356,
+          "pred_tp": 329
+        },
+        "TAXNUM": {
+          "gold": 449,
+          "recalled": 367,
+          "recalled_strict": 367,
+          "pred": 583,
+          "pred_tp": 367
+        },
+        "SOCIALNUM": {
+          "gold": 392,
+          "recalled": 246,
+          "recalled_strict": 246,
+          "pred": 619,
+          "pred_tp": 246
+        },
+        "PASSPORTNUM": {
+          "gold": 394,
+          "recalled": 241,
+          "recalled_strict": 241,
+          "pred": 252,
+          "pred_tp": 241
+        }
+      }
+    }
+  }
+}

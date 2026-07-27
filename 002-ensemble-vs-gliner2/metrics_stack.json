@@ -1,0 +1,346 @@
+{
+  "en": {
+    "examples": 2000,
+    "seconds": 120.7,
+    "recall": {
+      "GIVENNAME": {
+        "gold": 2072,
+        "recalled": 1982,
+        "recalled_strict": 284
+      },
+      "SURNAME": {
+        "gold": 1813,
+        "recalled": 1759,
+        "recalled_strict": 126
+      },
+      "TITLE": {
+        "gold": 1164,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "DATE": {
+        "gold": 2020,
+        "recalled": 667,
+        "recalled_strict": 667
+      },
+      "CITY": {
+        "gold": 1178,
+        "recalled": 1111,
+        "recalled_strict": 1000
+      },
+      "STREET": {
+        "gold": 845,
+        "recalled": 808,
+        "recalled_strict": 471
+      },
+      "BUILDINGNUM": {
+        "gold": 806,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "ZIPCODE": {
+        "gold": 744,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "EMAIL": {
+        "gold": 1305,
+        "recalled": 1305,
+        "recalled_strict": 1295
+      },
+      "TELEPHONENUM": {
+        "gold": 954,
+        "recalled": 382,
+        "recalled_strict": 265
+      },
+      "AGE": {
+        "gold": 775,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "GENDER": {
+        "gold": 475,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "SEX": {
+        "gold": 346,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "CREDITCARDNUMBER": {
+        "gold": 521,
+        "recalled": 40,
+        "recalled_strict": 40
+      },
+      "IDCARDNUM": {
+        "gold": 462,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "DRIVERLICENSENUM": {
+        "gold": 471,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "TAXNUM": {
+        "gold": 438,
+        "recalled": 10,
+        "recalled_strict": 10
+      },
+      "SOCIALNUM": {
+        "gold": 429,
+        "recalled": 47,
+        "recalled_strict": 47
+      },
+      "PASSPORTNUM": {
+        "gold": 345,
+        "recalled": 0,
+        "recalled_strict": 0
+      }
+    },
+    "precision": {
+      "EMAIL_ADDRESS": {
+        "pred": 1312,
+        "tp": 1305
+      },
+      "LOCATION": {
+        "pred": 3364,
+        "tp": 1981
+      },
+      "PERSON": {
+        "pred": 3081,
+        "tp": 2451
+      },
+      "ORGANIZATION": {
+        "pred": 426,
+        "tp": 0
+      },
+      "UK_NHS": {
+        "pred": 61,
+        "tp": 48
+      },
+      "PHONE_NUMBER": {
+        "pred": 1057,
+        "tp": 382
+      },
+      "DATE_TIME": {
+        "pred": 669,
+        "tp": 667
+      },
+      "UK_NINO": {
+        "pred": 20,
+        "tp": 0
+      },
+      "CREDIT_CARD": {
+        "pred": 40,
+        "tp": 40
+      },
+      "MEDICAL_LICENSE": {
+        "pred": 24,
+        "tp": 0
+      },
+      "BG_EGN": {
+        "pred": 9,
+        "tp": 9
+      },
+      "AU_TFN": {
+        "pred": 5,
+        "tp": 0
+      },
+      "AU_MEDICARE": {
+        "pred": 19,
+        "tp": 0
+      },
+      "AU_ACN": {
+        "pred": 5,
+        "tp": 0
+      },
+      "URL": {
+        "pred": 2,
+        "tp": 0
+      }
+    },
+    "phone_axis": {
+      "tp": 382,
+      "dangerous_fp": 672,
+      "other": 3
+    },
+    "language_detection": {
+      "match": 1997,
+      "mismatch": 3,
+      "examples": [
+        "da",
+        "fr",
+        "de"
+      ]
+    }
+  },
+  "bg": {
+    "examples": 2000,
+    "seconds": 110.5,
+    "recall": {
+      "GIVENNAME": {
+        "gold": 1791,
+        "recalled": 1708,
+        "recalled_strict": 402
+      },
+      "SURNAME": {
+        "gold": 1619,
+        "recalled": 1579,
+        "recalled_strict": 277
+      },
+      "TITLE": {
+        "gold": 999,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "DATE": {
+        "gold": 1843,
+        "recalled": 631,
+        "recalled_strict": 631
+      },
+      "CITY": {
+        "gold": 1114,
+        "recalled": 1065,
+        "recalled_strict": 605
+      },
+      "STREET": {
+        "gold": 730,
+        "recalled": 652,
+        "recalled_strict": 123
+      },
+      "BUILDINGNUM": {
+        "gold": 726,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "ZIPCODE": {
+        "gold": 664,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "EMAIL": {
+        "gold": 1217,
+        "recalled": 1215,
+        "recalled_strict": 1207
+      },
+      "TELEPHONENUM": {
+        "gold": 939,
+        "recalled": 387,
+        "recalled_strict": 280
+      },
+      "AGE": {
+        "gold": 740,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "GENDER": {
+        "gold": 446,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "SEX": {
+        "gold": 521,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "CREDITCARDNUMBER": {
+        "gold": 510,
+        "recalled": 1,
+        "recalled_strict": 1
+      },
+      "IDCARDNUM": {
+        "gold": 529,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "DRIVERLICENSENUM": {
+        "gold": 506,
+        "recalled": 0,
+        "recalled_strict": 0
+      },
+      "TAXNUM": {
+        "gold": 449,
+        "recalled": 8,
+        "recalled_strict": 8
+      },
+      "SOCIALNUM": {
+        "gold": 392,
+        "recalled": 35,
+        "recalled_strict": 35
+      },
+      "PASSPORTNUM": {
+        "gold": 394,
+        "recalled": 0,
+        "recalled_strict": 0
+      }
+    },
+    "precision": {
+      "EMAIL_ADDRESS": {
+        "pred": 1224,
+        "tp": 1215
+      },
+      "LOCATION": {
+        "pred": 3390,
+        "tp": 2325
+      },
+      "PERSON": {
+        "pred": 4109,
+        "tp": 2255
+      },
+      "PHONE_NUMBER": {
+        "pred": 1097,
+        "tp": 387
+      },
+      "DATE_TIME": {
+        "pred": 635,
+        "tp": 631
+      },
+      "ORGANIZATION": {
+        "pred": 254,
+        "tp": 0
+      },
+      "BG_EGN": {
+        "pred": 38,
+        "tp": 38
+      },
+      "UK_NHS": {
+        "pred": 5,
+        "tp": 5
+      },
+      "URL": {
+        "pred": 2,
+        "tp": 0
+      },
+      "AU_TFN": {
+        "pred": 4,
+        "tp": 0
+      },
+      "AU_ACN": {
+        "pred": 2,
+        "tp": 0
+      },
+      "CREDIT_CARD": {
+        "pred": 1,
+        "tp": 1
+      }
+    },
+    "phone_axis": {
+      "tp": 387,
+      "dangerous_fp": 707,
+      "other": 3
+    },
+    "language_detection": {
+      "match": 1931,
+      "mismatch": 69,
+      "examples": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+      ]
+    }
+  }
+}
