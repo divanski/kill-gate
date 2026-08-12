@@ -1,0 +1,205 @@
+{
+  "model": "llama3.2:3b-instruct-q8_0",
+  "outputs": [
+    {
+      "id": 1,
+      "prompt": "What is the capital of France?",
+      "response": "The capital of France is Paris.",
+      "eval_count": 8,
+      "eval_duration_ns": 40793000,
+      "tokens_per_sec": 196.11207805260705,
+      "load_duration_ns": 157047600,
+      "total_duration_ns": 210166200
+    },
+    {
+      "id": 2,
+      "prompt": "Explain in one sentence why the sky is blue.",
+      "response": "The sky appears blue because of a phenomenon called Rayleigh scattering, where shorter wavelengths of light (such as blue and violet) are scattered more than longer wavelengths by the tiny molecules of gases in the Earth's atmosphere.",
+      "eval_count": 44,
+      "eval_duration_ns": 239579000,
+      "tokens_per_sec": 183.65549568200888,
+      "load_duration_ns": 157935900,
+      "total_duration_ns": 410387600
+    },
+    {
+      "id": 3,
+      "prompt": "What is 17 times 24?",
+      "response": "17 \u00d7 24 = 408.",
+      "eval_count": 9,
+      "eval_duration_ns": 46319000,
+      "tokens_per_sec": 194.30471296876013,
+      "load_duration_ns": 164857500,
+      "total_duration_ns": 225289800
+    },
+    {
+      "id": 4,
+      "prompt": "Name three primary colours.",
+      "response": "The three primary colours are:\n\n1. Red\n2. Blue\n3. Yellow",
+      "eval_count": 18,
+      "eval_duration_ns": 96030000,
+      "tokens_per_sec": 187.4414245548266,
+      "load_duration_ns": 159945200,
+      "total_duration_ns": 269717900
+    },
+    {
+      "id": 5,
+      "prompt": "What year did the Berlin Wall fall?",
+      "response": "The Berlin Wall fell on November 9, 1989.",
+      "eval_count": 14,
+      "eval_duration_ns": 73238000,
+      "tokens_per_sec": 191.1575957836096,
+      "load_duration_ns": 159551200,
+      "total_duration_ns": 248301400
+    },
+    {
+      "id": 6,
+      "prompt": "Summarise the plot of Romeo and Juliet in two sentences.",
+      "response": "In William Shakespeare's tragic play Romeo and Juliet, two young lovers from feuding families, the Montagues and the Capulets, fall deeply in love despite the animosity between their families, leading to a series of tragic events that ultimately result in the deaths of both Romeo and Juliet. The conflict between their families is fueled by a long-standing feud, which ultimately leads to the downfall of the two lovers and the destruction of their families' hatred for each other.",
+      "eval_count": 94,
+      "eval_duration_ns": 511286000,
+      "tokens_per_sec": 183.85013475823706,
+      "load_duration_ns": 164652600,
+      "total_duration_ns": 690533400
+    },
+    {
+      "id": 7,
+      "prompt": "What is the boiling point of water in Celsius at sea level?",
+      "response": "The boiling point of water in Celsius at sea level is 100\u00b0C.",
+      "eval_count": 16,
+      "eval_duration_ns": 84686000,
+      "tokens_per_sec": 188.9332357178282,
+      "load_duration_ns": 156803300,
+      "total_duration_ns": 258702400
+    },
+    {
+      "id": 8,
+      "prompt": "Explain the difference between a virus and a bacterium in one sentence.",
+      "response": "A virus is a tiny, non-cellular particle that replicates inside the cells of an organism, whereas a bacterium is a single-celled microorganism with its own cell membrane and genetic material.",
+      "eval_count": 42,
+      "eval_duration_ns": 227884000,
+      "tokens_per_sec": 184.3042951677169,
+      "load_duration_ns": 157721800,
+      "total_duration_ns": 400207900
+    },
+    {
+      "id": 9,
+      "prompt": "What is the largest planet in the solar system?",
+      "response": "The largest planet in our solar system is Jupiter. It is a gas giant, meaning it is primarily composed of hydrogen and helium gases. Jupiter has a diameter of approximately 142,984 kilometers (88,846 miles), which is more than 11 times the diameter of Earth. Its massive size and stormy atmosphere make it a fascinating object of study in astronomy.",
+      "eval_count": 74,
+      "eval_duration_ns": 403533000,
+      "tokens_per_sec": 183.38029355715642,
+      "load_duration_ns": 164260400,
+      "total_duration_ns": 583588600
+    },
+    {
+      "id": 10,
+      "prompt": "If a train travels 60 km in 1.5 hours, what is its average speed in km/h?",
+      "response": "To find the average speed of the train, we need to divide the distance traveled (60 km) by the time taken (1.5 hours).\n\nAverage speed = Distance / Time\n= 60 km / 1.5 hours\n= 40 km/h\n\nSo, the average speed of the train is 40 km/h.",
+      "eval_count": 69,
+      "eval_duration_ns": 379914000,
+      "tokens_per_sec": 181.62005085361426,
+      "load_duration_ns": 161773800,
+      "total_duration_ns": 558049400
+    },
+    {
+      "id": 11,
+      "prompt": "Name the chemical symbol for gold.",
+      "response": "The chemical symbol for gold is Au.",
+      "eval_count": 9,
+      "eval_duration_ns": 46047000,
+      "tokens_per_sec": 195.4524724737768,
+      "load_duration_ns": 162972200,
+      "total_duration_ns": 225292700
+    },
+    {
+      "id": 12,
+      "prompt": "Explain briefly why leaves change colour in autumn.",
+      "response": "Leaves change color in autumn due to a combination of factors:\n\n1. Shortening daylight hours and cooler temperatures trigger the trees to prepare for winter by slowing down their food-making process.\n2. The trees stop producing chlorophyll, the green pigment that helps them absorb sunlight for photosynthesis.\n3. Other pigments, such as carotenoids (yellow, orange) and anthocyanins (red, purple), become visible as the chlorophyll fades, resulting in the characteristic autumn colors.\n\nThis process is a natural adaptation to conserve energy during the winter months when daylight hours are shorter and temperatures are colder.",
+      "eval_count": 125,
+      "eval_duration_ns": 679263000,
+      "tokens_per_sec": 184.02297784510566,
+      "load_duration_ns": 162313500,
+      "total_duration_ns": 852969400
+    },
+    {
+      "id": 13,
+      "prompt": "What is the square root of 144?",
+      "response": "The square root of 144 is 12.",
+      "eval_count": 11,
+      "eval_duration_ns": 58455000,
+      "tokens_per_sec": 188.17894106577708,
+      "load_duration_ns": 162195500,
+      "total_duration_ns": 236625800
+    },
+    {
+      "id": 14,
+      "prompt": "Who wrote the novel 'Pride and Prejudice'?",
+      "response": "The novel \"Pride and Prejudice\" was written by Jane Austen. It was first published in 1813 and is considered one of her most famous works, as well as a classic of English literature.",
+      "eval_count": 45,
+      "eval_duration_ns": 243989000,
+      "tokens_per_sec": 184.43454418027042,
+      "load_duration_ns": 159903400,
+      "total_duration_ns": 418078300
+    },
+    {
+      "id": 15,
+      "prompt": "Explain in one sentence what a firewall does in networking.",
+      "response": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules, blocking unauthorized access to or from a private network.",
+      "eval_count": 33,
+      "eval_duration_ns": 177678000,
+      "tokens_per_sec": 185.72924053625096,
+      "load_duration_ns": 158681000,
+      "total_duration_ns": 352704500
+    },
+    {
+      "id": 16,
+      "prompt": "What is the currency of Japan?",
+      "response": "The currency of Japan is the Japanese yen (JPY). It is represented by the symbol \u00a5.",
+      "eval_count": 21,
+      "eval_duration_ns": 113209000,
+      "tokens_per_sec": 185.4976194472171,
+      "load_duration_ns": 161654400,
+      "total_duration_ns": 290574100
+    },
+    {
+      "id": 17,
+      "prompt": "If today is Wednesday, what day of the week will it be in 10 days?",
+      "response": "To find out the day of the week in 10 days, we need to add 10 days to Wednesday.\n\nHere's a simple way to do it:\n\nWednesday + 1 = Thursday\nThursday + 1 = Friday\nFriday + 1 = Saturday\nSaturday + 1 = Sunday\nSunday + 1 = Monday\nMonday + 1 = Tuesday\nTuesday + 1 = Wednesday (next week)\nWednesday + 3 = Friday\n\nSo, in 10 days, it will be Friday.",
+      "eval_count": 104,
+      "eval_duration_ns": 570683000,
+      "tokens_per_sec": 182.23777473658754,
+      "load_duration_ns": 162606100,
+      "total_duration_ns": 747744300
+    },
+    {
+      "id": 18,
+      "prompt": "Name two gases that make up most of Earth's atmosphere.",
+      "response": "The two gases that make up the majority of Earth's atmosphere are:\n\n1. Nitrogen (N2) - approximately 78%\n2. Oxygen (O2) - approximately 21%",
+      "eval_count": 40,
+      "eval_duration_ns": 217953000,
+      "tokens_per_sec": 183.5258060223993,
+      "load_duration_ns": 161416100,
+      "total_duration_ns": 395136800
+    },
+    {
+      "id": 19,
+      "prompt": "Explain briefly the difference between weather and climate.",
+      "response": "Weather refers to short-term atmospheric conditions, including temperature, humidity, cloudiness, wind, and precipitation, over a specific period of time (hours, days, or weeks). It can change rapidly.\n\nClimate, on the other hand, is the long-term average atmospheric condition in a particular region, typically measured over 30 years or more. Climate describes patterns of weather conditions, such as temperature ranges, precipitation levels, and seasonal changes, that are typical for a specific location.\n\nIn simple terms:\n\nWeather = What's happening today/this week\nClimate = The overall pattern of what happens here every year",
+      "eval_count": 121,
+      "eval_duration_ns": 657278000,
+      "tokens_per_sec": 184.09257574420565,
+      "load_duration_ns": 163003000,
+      "total_duration_ns": 836932100
+    },
+    {
+      "id": 20,
+      "prompt": "What is the freezing point of water in Fahrenheit?",
+      "response": "The freezing point of water is 32 degrees Fahrenheit.",
+      "eval_count": 12,
+      "eval_duration_ns": 62212000,
+      "tokens_per_sec": 192.88883173664243,
+      "load_duration_ns": 160547700,
+      "total_duration_ns": 240652100
+    }
+  ]
+}

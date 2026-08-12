@@ -1,0 +1,205 @@
+{
+  "model": "llama3.2:3b-instruct-q4_K_M",
+  "outputs": [
+    {
+      "id": 1,
+      "prompt": "What is the capital of France?",
+      "response": "The capital of France is Paris.",
+      "eval_count": 8,
+      "eval_duration_ns": 30248000,
+      "tokens_per_sec": 264.48029621793177,
+      "load_duration_ns": 158362300,
+      "total_duration_ns": 199066800
+    },
+    {
+      "id": 2,
+      "prompt": "Explain in one sentence why the sky is blue.",
+      "response": "The sky appears blue because of a phenomenon called Rayleigh scattering, where shorter wavelengths of light (such as blue and violet) are scattered more than longer wavelengths by the tiny molecules of gases in the Earth's atmosphere.",
+      "eval_count": 44,
+      "eval_duration_ns": 172548000,
+      "tokens_per_sec": 255.0015068270858,
+      "load_duration_ns": 158200400,
+      "total_duration_ns": 341387700
+    },
+    {
+      "id": 3,
+      "prompt": "What is 17 times 24?",
+      "response": "17 \u00d7 24 = 408.",
+      "eval_count": 9,
+      "eval_duration_ns": 35241000,
+      "tokens_per_sec": 255.38435345194517,
+      "load_duration_ns": 159129500,
+      "total_duration_ns": 207470100
+    },
+    {
+      "id": 4,
+      "prompt": "Name three primary colours.",
+      "response": "The three primary colours are:\n\n1. Red\n2. Blue\n3. Yellow",
+      "eval_count": 18,
+      "eval_duration_ns": 69319000,
+      "tokens_per_sec": 259.6690662011858,
+      "load_duration_ns": 159600100,
+      "total_duration_ns": 240854800
+    },
+    {
+      "id": 5,
+      "prompt": "What year did the Berlin Wall fall?",
+      "response": "The Berlin Wall fell on November 9, 1989.",
+      "eval_count": 14,
+      "eval_duration_ns": 53462000,
+      "tokens_per_sec": 261.86824286409035,
+      "load_duration_ns": 161464000,
+      "total_duration_ns": 229380400
+    },
+    {
+      "id": 6,
+      "prompt": "Summarise the plot of Romeo and Juliet in two sentences.",
+      "response": "In the tragic love story Romeo and Juliet, two young lovers from feuding families in Verona, Italy, fall deeply in love despite the animosity between their families, leading to a series of events that ultimately lead to their demise. The star-crossed lovers' fate is sealed when they both die in each other's arms after a series of misunderstandings, miscommunications, and tragic circumstances.",
+      "eval_count": 80,
+      "eval_duration_ns": 312521000,
+      "tokens_per_sec": 255.98279795597736,
+      "load_duration_ns": 160369500,
+      "total_duration_ns": 486299200
+    },
+    {
+      "id": 7,
+      "prompt": "What is the boiling point of water in Celsius at sea level?",
+      "response": "The boiling point of water in Celsius at sea level is 100\u00b0C.",
+      "eval_count": 16,
+      "eval_duration_ns": 61938000,
+      "tokens_per_sec": 258.32283896800027,
+      "load_duration_ns": 159786500,
+      "total_duration_ns": 236814000
+    },
+    {
+      "id": 8,
+      "prompt": "Explain the difference between a virus and a bacterium in one sentence.",
+      "response": "A virus is a tiny, non-living particle that replicates inside the cells of an organism, whereas a bacterium is a living cell that can reproduce independently and carry out its own metabolic processes.",
+      "eval_count": 41,
+      "eval_duration_ns": 159487000,
+      "tokens_per_sec": 257.0742442957733,
+      "load_duration_ns": 158375100,
+      "total_duration_ns": 330703600
+    },
+    {
+      "id": 9,
+      "prompt": "What is the largest planet in the solar system?",
+      "response": "The largest planet in our solar system is Jupiter. It has a diameter of approximately 142,984 kilometers (88,846 miles), which is more than 11 times the diameter of Earth. Jupiter is a gas giant and is known for its distinctive banded appearance and massive storms, such as the Great Red Spot.",
+      "eval_count": 65,
+      "eval_duration_ns": 254655000,
+      "tokens_per_sec": 255.24729536038953,
+      "load_duration_ns": 159492600,
+      "total_duration_ns": 428296500
+    },
+    {
+      "id": 10,
+      "prompt": "If a train travels 60 km in 1.5 hours, what is its average speed in km/h?",
+      "response": "To find the average speed of the train, we need to divide the distance traveled (60 km) by the time taken (1.5 hours).\n\nAverage speed = Distance / Time\n= 60 km / 1.5 hours\n= 40 km/h\n\nSo, the average speed of the train is 40 km/h.",
+      "eval_count": 69,
+      "eval_duration_ns": 272845000,
+      "tokens_per_sec": 252.89083545602816,
+      "load_duration_ns": 164149000,
+      "total_duration_ns": 451139900
+    },
+    {
+      "id": 11,
+      "prompt": "Name the chemical symbol for gold.",
+      "response": "The chemical symbol for gold is Au.",
+      "eval_count": 9,
+      "eval_duration_ns": 33552000,
+      "tokens_per_sec": 268.2403433476395,
+      "load_duration_ns": 161101500,
+      "total_duration_ns": 210108700
+    },
+    {
+      "id": 12,
+      "prompt": "Explain briefly why leaves change colour in autumn.",
+      "response": "Leaves change color in autumn due to a combination of factors:\n\n1. Shortening daylight hours and cooler temperatures trigger the trees to prepare for winter by slowing down their food-making process.\n2. The production of chlorophyll, which helps plants absorb sunlight, decreases as the days get shorter.\n3. As chlorophyll breaks down, other pigments in the leaves become visible, such as carotenoids (yellow and orange) and anthocyanins (red and purple), which were present throughout the growing season.\n\nThis combination of factors results in the characteristic autumn colors we see, ranging from yellow to orange, red, and purple.",
+      "eval_count": 130,
+      "eval_duration_ns": 507592000,
+      "tokens_per_sec": 256.111207426437,
+      "load_duration_ns": 158947500,
+      "total_duration_ns": 676947900
+    },
+    {
+      "id": 13,
+      "prompt": "What is the square root of 144?",
+      "response": "The square root of 144 is 12.",
+      "eval_count": 11,
+      "eval_duration_ns": 41313000,
+      "tokens_per_sec": 266.26001500738266,
+      "load_duration_ns": 163811400,
+      "total_duration_ns": 219192500
+    },
+    {
+      "id": 14,
+      "prompt": "Who wrote the novel 'Pride and Prejudice'?",
+      "response": "The novel \"Pride and Prejudice\" was written by Jane Austen. It was first published in 1813 and is considered one of Austen's most famous works, as well as a classic of English literature.",
+      "eval_count": 47,
+      "eval_duration_ns": 185727000,
+      "tokens_per_sec": 253.05959822750597,
+      "load_duration_ns": 158675200,
+      "total_duration_ns": 356920000
+    },
+    {
+      "id": 15,
+      "prompt": "Explain in one sentence what a firewall does in networking.",
+      "response": "A firewall acts as a barrier between a network and the internet, controlling incoming and outgoing traffic based on predetermined security rules to prevent unauthorized access, malicious activity, or data breaches.",
+      "eval_count": 36,
+      "eval_duration_ns": 141416000,
+      "tokens_per_sec": 254.56808281948298,
+      "load_duration_ns": 158567200,
+      "total_duration_ns": 314153200
+    },
+    {
+      "id": 16,
+      "prompt": "What is the currency of Japan?",
+      "response": "The currency of Japan is the Japanese yen (JPY).",
+      "eval_count": 13,
+      "eval_duration_ns": 49913000,
+      "tokens_per_sec": 260.4531885480736,
+      "load_duration_ns": 165333600,
+      "total_duration_ns": 229283200
+    },
+    {
+      "id": 17,
+      "prompt": "If today is Wednesday, what day of the week will it be in 10 days?",
+      "response": "To find out the day of the week in 10 days, we need to add 10 days to Wednesday.\n\nHere's a simple way to do this:\n\nWednesday + 1 = Thursday\nThursday + 1 = Friday\nFriday + 1 = Saturday\nSaturday + 1 = Sunday\nSunday + 1 = Monday\nMonday + 1 = Tuesday\nTuesday + 1 = Wednesday (next week)\nWednesday + 1 = Thursday\n\nSo, in 10 days, it will be Thursday.",
+      "eval_count": 104,
+      "eval_duration_ns": 410651000,
+      "tokens_per_sec": 253.2564148145262,
+      "load_duration_ns": 158922800,
+      "total_duration_ns": 582775100
+    },
+    {
+      "id": 18,
+      "prompt": "Name two gases that make up most of Earth's atmosphere.",
+      "response": "The two gases that make up the majority of Earth's atmosphere are:\n\n1. Nitrogen (N2)\n2. Oxygen (O2)",
+      "eval_count": 30,
+      "eval_duration_ns": 116721000,
+      "tokens_per_sec": 257.02315778651655,
+      "load_duration_ns": 164283500,
+      "total_duration_ns": 294810300
+    },
+    {
+      "id": 19,
+      "prompt": "Explain briefly the difference between weather and climate.",
+      "response": "Weather and climate are two related but distinct concepts:\n\nWeather refers to the short-term atmospheric conditions in a specific place at a specific time, including temperature, humidity, cloudiness, wind, and precipitation.\n\nClimate, on the other hand, is the long-term average of atmospheric conditions in a particular region, typically measured over 30 years or more. Climate describes the typical patterns and trends of weather conditions, such as average temperatures, precipitation amounts, and seasonal variations.\n\nIn other words, weather is what you experience from day to day, while climate is the overall pattern of weather conditions over a long period of time.",
+      "eval_count": 123,
+      "eval_duration_ns": 481142000,
+      "tokens_per_sec": 255.6417855851287,
+      "load_duration_ns": 167683100,
+      "total_duration_ns": 662643500
+    },
+    {
+      "id": 20,
+      "prompt": "What is the freezing point of water in Fahrenheit?",
+      "response": "The freezing point of water is 32\u00b0F (0\u00b0C).",
+      "eval_count": 14,
+      "eval_duration_ns": 53943000,
+      "tokens_per_sec": 259.53321098196244,
+      "load_duration_ns": 165573500,
+      "total_duration_ns": 234860200
+    }
+  ]
+}

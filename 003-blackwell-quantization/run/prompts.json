@@ -1,0 +1,84 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "text": "What is the capital of France?"
+    },
+    {
+      "id": 2,
+      "text": "Explain in one sentence why the sky is blue."
+    },
+    {
+      "id": 3,
+      "text": "What is 17 times 24?"
+    },
+    {
+      "id": 4,
+      "text": "Name three primary colours."
+    },
+    {
+      "id": 5,
+      "text": "What year did the Berlin Wall fall?"
+    },
+    {
+      "id": 6,
+      "text": "Summarise the plot of Romeo and Juliet in two sentences."
+    },
+    {
+      "id": 7,
+      "text": "What is the boiling point of water in Celsius at sea level?"
+    },
+    {
+      "id": 8,
+      "text": "Explain the difference between a virus and a bacterium in one sentence."
+    },
+    {
+      "id": 9,
+      "text": "What is the largest planet in the solar system?"
+    },
+    {
+      "id": 10,
+      "text": "If a train travels 60 km in 1.5 hours, what is its average speed in km/h?"
+    },
+    {
+      "id": 11,
+      "text": "Name the chemical symbol for gold."
+    },
+    {
+      "id": 12,
+      "text": "Explain briefly why leaves change colour in autumn."
+    },
+    {
+      "id": 13,
+      "text": "What is the square root of 144?"
+    },
+    {
+      "id": 14,
+      "text": "Who wrote the novel 'Pride and Prejudice'?"
+    },
+    {
+      "id": 15,
+      "text": "Explain in one sentence what a firewall does in networking."
+    },
+    {
+      "id": 16,
+      "text": "What is the currency of Japan?"
+    },
+    {
+      "id": 17,
+      "text": "If today is Wednesday, what day of the week will it be in 10 days?"
+    },
+    {
+      "id": 18,
+      "text": "Name two gases that make up most of Earth's atmosphere."
+    },
+    {
+      "id": 19,
+      "text": "Explain briefly the difference between weather and climate."
+    },
+    {
+      "id": 20,
+      "text": "What is the freezing point of water in Fahrenheit?"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "per_prompt_similarity": [
+    {
+      "id": 1,
+      "similarity_q8_0_vs_fp16": 1.0000000000000002,
+      "similarity_q4_K_M_vs_fp16": 1.0000000000000002
+    },
+    {
+      "id": 2,
+      "similarity_q8_0_vs_fp16": 0.9999999999999999,
+      "similarity_q4_K_M_vs_fp16": 0.9999999999999999
+    },
+    {
+      "id": 3,
+      "similarity_q8_0_vs_fp16": 1.0,
+      "similarity_q4_K_M_vs_fp16": 1.0
+    },
+    {
+      "id": 4,
+      "similarity_q8_0_vs_fp16": 0.9999999999999999,
+      "similarity_q4_K_M_vs_fp16": 0.9999999999999999
+    },
+    {
+      "id": 5,
+      "similarity_q8_0_vs_fp16": 1.0000000000000002,
+      "similarity_q4_K_M_vs_fp16": 1.0000000000000002
+    },
+    {
+      "id": 6,
+      "similarity_q8_0_vs_fp16": 0.9789559403730145,
+      "similarity_q4_K_M_vs_fp16": 0.9298405591026865
+    },
+    {
+      "id": 7,
+      "similarity_q8_0_vs_fp16": 1.0,
+      "similarity_q4_K_M_vs_fp16": 1.0
+    },
+    {
+      "id": 8,
+      "similarity_q8_0_vs_fp16": 0.9959284193763642,
+      "similarity_q4_K_M_vs_fp16": 0.9773610014499502
+    },
+    {
+      "id": 9,
+      "similarity_q8_0_vs_fp16": 1.0,
+      "similarity_q4_K_M_vs_fp16": 0.971285896626645
+    },
+    {
+      "id": 10,
+      "similarity_q8_0_vs_fp16": 1.0000000000000002,
+      "similarity_q4_K_M_vs_fp16": 1.0000000000000002
+    },
+    {
+      "id": 11,
+      "similarity_q8_0_vs_fp16": 1.0000000000000002,
+      "similarity_q4_K_M_vs_fp16": 1.0000000000000002
+    },
+    {
+      "id": 12,
+      "similarity_q8_0_vs_fp16": 0.9999999999999999,
+      "similarity_q4_K_M_vs_fp16": 0.9786388948626434
+    },
+    {
+      "id": 13,
+      "similarity_q8_0_vs_fp16": 1.0,
+      "similarity_q4_K_M_vs_fp16": 1.0
+    },
+    {
+      "id": 14,
+      "similarity_q8_0_vs_fp16": 1.0000000000000002,
+      "similarity_q4_K_M_vs_fp16": 0.9942161922039362
+    },
+    {
+      "id": 15,
+      "similarity_q8_0_vs_fp16": 0.9999999999999999,
+      "similarity_q4_K_M_vs_fp16": 0.9316504384722055
+    },
+    {
+      "id": 16,
+      "similarity_q8_0_vs_fp16": 1.0,
+      "similarity_q4_K_M_vs_fp16": 0.9602487563249323
+    },
+    {
+      "id": 17,
+      "similarity_q8_0_vs_fp16": 1.0,
+      "similarity_q4_K_M_vs_fp16": 0.9944554832733141
+    },
+    {
+      "id": 18,
+      "similarity_q8_0_vs_fp16": 1.0000000000000002,
+      "similarity_q4_K_M_vs_fp16": 0.9783805910398804
+    },
+    {
+      "id": 19,
+      "similarity_q8_0_vs_fp16": 0.9922820423479454,
+      "similarity_q4_K_M_vs_fp16": 0.974680911136203
+    },
+    {
+      "id": 20,
+      "similarity_q8_0_vs_fp16": 0.9999999999999999,
+      "similarity_q4_K_M_vs_fp16": 0.979068364351845
+    }
+  ],
+  "avg_similarity": {
+    "q8_0_vs_fp16": 0.9983583201048661,
+    "q4_K_M_vs_fp16": 0.9834913544422121
+  },
+  "throughput_vram": {
+    "fp16": {
+      "model": "llama3.2:3b-instruct-fp16",
+      "vram_before_mib": 2087,
+      "vram_loaded_mib": 8982,
+      "vram_delta_mib": 6895,
+      "ollama_ps_at_load": "NAME                         ID              SIZE      PROCESSOR    CONTEXT    UNTIL              \nllama3.2:3b-instruct-fp16    195a8c01d91e    7.0 GB    100% GPU     4096       4 minutes from now",
+      "avg_tokens_per_sec": 116.49762630050398,
+      "min_tokens_per_sec": 112.66372802109412,
+      "max_tokens_per_sec": 124.20624446894068,
+      "wall_clock_seconds_for_20_prompts": 30.540282487869263
+    },
+    "q8_0": {
+      "model": "llama3.2:3b-instruct-q8_0",
+      "vram_before_mib": 8987,
+      "vram_loaded_mib": 13006,
+      "vram_delta_mib": 4019,
+      "ollama_ps_at_load": "NAME                         ID              SIZE      PROCESSOR    CONTEXT    UNTIL              \nllama3.2:3b-instruct-q8_0    e410b836fe61    4.0 GB    100% GPU     4096       4 minutes from now    \nllama3.2:3b-instruct-fp16    195a8c01d91e    7.0 GB    100% GPU     4096       4 minutes from now",
+      "avg_tokens_per_sec": 187.0410050442299,
+      "min_tokens_per_sec": 181.62005085361426,
+      "max_tokens_per_sec": 196.11207805260705,
+      "wall_clock_seconds_for_20_prompts": 8.758779764175415
+    },
+    "q4_K_M": {
+      "model": "llama3.2:3b-instruct-q4_K_M",
+      "vram_before_mib": 13006,
+      "vram_loaded_mib": 15600,
+      "vram_delta_mib": 2594,
+      "ollama_ps_at_load": "NAME                           ID              SIZE      PROCESSOR    CONTEXT    UNTIL              \nllama3.2:3b-instruct-q4_K_M    a80c4f17acd5    2.6 GB    100% GPU     4096       4 minutes from now    \nllama3.2:3b-instruct-q8_0      e410b836fe61    4.0 GB    100% GPU     4096       4 minutes from now    \nllama3.2:3b-instruct-fp16      195a8c01d91e    7.0 GB    100% GPU     4096       4 minutes from now",
+      "avg_tokens_per_sec": 258.00342410715314,
+      "min_tokens_per_sec": 252.89083545602816,
+      "max_tokens_per_sec": 268.2403433476395,
+      "wall_clock_seconds_for_20_prompts": 7.193687677383423
+    }
+  },
+  "verdict": {
+    "KG1_throughput": {
+      "threshold": ">= 1.3x fp16",
+      "q4_K_M_tokens_per_sec": 258.00342410715314,
+      "fp16_tokens_per_sec": 116.49762630050398,
+      "ratio": 2.214666790219716,
+      "verdict": "PASSED"
+    },
+    "KG2_quality": {
+      "threshold": ">= 0.9 avg cosine similarity",
+      "avg_similarity_q4_K_M_vs_fp16": 0.9834913544422121,
+      "verdict": "PASSED"
+    },
+    "KG3_diagnostic_q8_0": {
+      "tokens_per_sec": 187.0410050442299,
+      "ratio_vs_fp16": 1.605534902159811,
+      "avg_similarity_vs_fp16": 0.9983583201048661,
+      "note": "diagnostic only, no pass/fail threshold registered"
+    }
+  }
+}

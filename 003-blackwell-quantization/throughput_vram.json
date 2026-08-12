@@ -1,0 +1,35 @@
+{
+  "fp16": {
+    "model": "llama3.2:3b-instruct-fp16",
+    "vram_before_mib": 2087,
+    "vram_loaded_mib": 8982,
+    "vram_delta_mib": 6895,
+    "ollama_ps_at_load": "NAME                         ID              SIZE      PROCESSOR    CONTEXT    UNTIL              \nllama3.2:3b-instruct-fp16    195a8c01d91e    7.0 GB    100% GPU     4096       4 minutes from now",
+    "avg_tokens_per_sec": 116.49762630050398,
+    "min_tokens_per_sec": 112.66372802109412,
+    "max_tokens_per_sec": 124.20624446894068,
+    "wall_clock_seconds_for_20_prompts": 30.540282487869263
+  },
+  "q8_0": {
+    "model": "llama3.2:3b-instruct-q8_0",
+    "vram_before_mib": 8987,
+    "vram_loaded_mib": 13006,
+    "vram_delta_mib": 4019,
+    "ollama_ps_at_load": "NAME                         ID              SIZE      PROCESSOR    CONTEXT    UNTIL              \nllama3.2:3b-instruct-q8_0    e410b836fe61    4.0 GB    100% GPU     4096       4 minutes from now    \nllama3.2:3b-instruct-fp16    195a8c01d91e    7.0 GB    100% GPU     4096       4 minutes from now",
+    "avg_tokens_per_sec": 187.0410050442299,
+    "min_tokens_per_sec": 181.62005085361426,
+    "max_tokens_per_sec": 196.11207805260705,
+    "wall_clock_seconds_for_20_prompts": 8.758779764175415
+  },
+  "q4_K_M": {
+    "model": "llama3.2:3b-instruct-q4_K_M",
+    "vram_before_mib": 13006,
+    "vram_loaded_mib": 15600,
+    "vram_delta_mib": 2594,
+    "ollama_ps_at_load": "NAME                           ID              SIZE      PROCESSOR    CONTEXT    UNTIL              \nllama3.2:3b-instruct-q4_K_M    a80c4f17acd5    2.6 GB    100% GPU     4096       4 minutes from now    \nllama3.2:3b-instruct-q8_0      e410b836fe61    4.0 GB    100% GPU     4096       4 minutes from now    \nllama3.2:3b-instruct-fp16      195a8c01d91e    7.0 GB    100% GPU     4096       4 minutes from now",
+    "avg_tokens_per_sec": 258.00342410715314,
+    "min_tokens_per_sec": 252.89083545602816,
+    "max_tokens_per_sec": 268.2403433476395,
+    "wall_clock_seconds_for_20_prompts": 7.193687677383423
+  }
+}
