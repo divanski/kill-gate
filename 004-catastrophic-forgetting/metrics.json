@@ -1,0 +1,21 @@
+{
+  "acc_A_after_A": 0.9787999987602234,
+  "acc_A_after_B_plain": 0.8554999828338623,
+  "acc_B_after_B_plain": 0.9783999919891357,
+  "acc_A_after_B_ewc": 0.9763000011444092,
+  "acc_B_after_B_ewc": 0.974299967288971,
+  "drop_plain_pp": 12.330001592636108,
+  "recovery_fraction": 0.9797242717526712,
+  "KG1_forgetting_demonstrated": "FIRED (H1 rejected)",
+  "KG2_ewc_mitigates": "PASSED",
+  "config": {
+    "epochs_per_task": 5,
+    "batch_size": 128,
+    "lr": 0.001,
+    "ewc_lambda": 1000.0,
+    "fisher_samples": 1000,
+    "seed": 42,
+    "device": "cuda",
+    "wall_clock_seconds": 26.270637035369873
+  }
+}
