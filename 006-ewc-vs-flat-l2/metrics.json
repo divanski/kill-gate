@@ -1,0 +1,66 @@
+{
+  "acc_A_after_A": 0.9787999987602234,
+  "acc_A_after_B_plain": 0.8554999828338623,
+  "acc_B_after_B_plain": 0.9783999919891357,
+  "acc_A_after_B_ewc": 0.9763000011444092,
+  "acc_B_after_B_ewc": 0.974299967288971,
+  "l2_sweep": [
+    {
+      "l2_lambda": 0.01,
+      "acc_A": 0.9677000045776367,
+      "acc_B": 0.9513999819755554
+    },
+    {
+      "l2_lambda": 0.1,
+      "acc_A": 0.9735999703407288,
+      "acc_B": 0.886199951171875
+    },
+    {
+      "l2_lambda": 1.0,
+      "acc_A": 0.973800003528595,
+      "acc_B": 0.6484999656677246
+    },
+    {
+      "l2_lambda": 10.0,
+      "acc_A": 0.9763000011444092,
+      "acc_B": 0.1841999888420105
+    },
+    {
+      "l2_lambda": 100.0,
+      "acc_A": 0.9789999723434448,
+      "acc_B": 0.10529999434947968
+    },
+    {
+      "l2_lambda": 1000.0,
+      "acc_A": 0.9789999723434448,
+      "acc_B": 0.10159999877214432
+    }
+  ],
+  "fair_pick": {
+    "l2_lambda": 0.01,
+    "acc_A": 0.9677000045776367,
+    "acc_B": 0.9513999819755554
+  },
+  "fair_pick_in_budget": false,
+  "gap_fair_l2_to_ewc_pp": 0.8599996566772461,
+  "KG1_fisher_weighting_advantage": "FIRED (H rejected - flat L2 within 3pp of EWC)",
+  "config": {
+    "epochs_per_task": 5,
+    "batch_size": 128,
+    "lr": 0.001,
+    "ewc_lambda": 1000.0,
+    "fisher_samples": 1000,
+    "seed": 42,
+    "l2_lambda_sweep": [
+      0.01,
+      0.1,
+      1.0,
+      10.0,
+      100.0,
+      1000.0
+    ],
+    "fair_budget_pp": 1.0,
+    "device": "cuda",
+    "wall_clock_seconds": 61.535114765167236
+  }
+}
