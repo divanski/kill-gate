@@ -1,0 +1,74 @@
+[
+  {
+    "size": "1.5B",
+    "gradient_checkpointing": false,
+    "success": true,
+    "peak_vram_mib": 4000.7,
+    "seconds_per_step": 0.792,
+    "error": null,
+    "repo_used": "unsloth/Qwen2.5-1.5B-Instruct-bnb-4bit"
+  },
+  {
+    "size": "1.5B",
+    "gradient_checkpointing": true,
+    "success": true,
+    "peak_vram_mib": 2855.5,
+    "seconds_per_step": 0.247,
+    "error": null,
+    "repo_used": "unsloth/Qwen2.5-1.5B-Instruct-bnb-4bit"
+  },
+  {
+    "size": "3B",
+    "gradient_checkpointing": false,
+    "success": true,
+    "peak_vram_mib": 6749.0,
+    "seconds_per_step": 0.221,
+    "error": null,
+    "repo_used": "unsloth/Qwen2.5-3B-Instruct-bnb-4bit"
+  },
+  {
+    "size": "3B",
+    "gradient_checkpointing": true,
+    "success": true,
+    "peak_vram_mib": 4490.8,
+    "seconds_per_step": 0.276,
+    "error": null,
+    "repo_used": "unsloth/Qwen2.5-3B-Instruct-bnb-4bit"
+  },
+  {
+    "size": "7B",
+    "gradient_checkpointing": false,
+    "success": true,
+    "peak_vram_mib": 11897.9,
+    "seconds_per_step": 0.425,
+    "error": null,
+    "repo_used": "unsloth/Qwen2.5-7B-Instruct-bnb-4bit"
+  },
+  {
+    "size": "7B",
+    "gradient_checkpointing": true,
+    "success": true,
+    "peak_vram_mib": 9709.9,
+    "seconds_per_step": 0.425,
+    "error": null,
+    "repo_used": "unsloth/Qwen2.5-7B-Instruct-bnb-4bit"
+  },
+  {
+    "size": "14B",
+    "gradient_checkpointing": false,
+    "success": true,
+    "peak_vram_mib": 22189.8,
+    "seconds_per_step": 21.685,
+    "error": null,
+    "repo_used": "unsloth/Qwen2.5-14B-Instruct-bnb-4bit"
+  },
+  {
+    "size": "14B",
+    "gradient_checkpointing": true,
+    "success": true,
+    "peak_vram_mib": 17470.9,
+    "seconds_per_step": 34.54,
+    "error": null,
+    "repo_used": "unsloth/Qwen2.5-14B-Instruct-bnb-4bit"
+  }
+]
