@@ -1,0 +1,240 @@
+{"source_text": "Please contact Jamie Sanders about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 20}, {"label": "SURNAME", "start": 21, "end": 28}]}
+{"source_text": "Meeting notes were shared with Lisa Young yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 35}, {"label": "SURNAME", "start": 36, "end": 41}]}
+{"source_text": "Kathryn Roberts will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 7}, {"label": "SURNAME", "start": 8, "end": 15}]}
+{"source_text": "Forward the attached form to Nicholas Riddle before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 37}, {"label": "SURNAME", "start": 38, "end": 44}]}
+{"source_text": "Please contact Willie Young about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 21}, {"label": "SURNAME", "start": 22, "end": 27}]}
+{"source_text": "Meeting notes were shared with Christine Owen yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 40}, {"label": "SURNAME", "start": 41, "end": 45}]}
+{"source_text": "Sherri Brown will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 6}, {"label": "SURNAME", "start": 7, "end": 12}]}
+{"source_text": "Forward the attached form to Cheryl Price before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 35}, {"label": "SURNAME", "start": 36, "end": 41}]}
+{"source_text": "Please contact Jimmy Mueller about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 20}, {"label": "SURNAME", "start": 21, "end": 28}]}
+{"source_text": "Meeting notes were shared with Alison Williams yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 37}, {"label": "SURNAME", "start": 38, "end": 46}]}
+{"source_text": "Sierra Lane will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 6}, {"label": "SURNAME", "start": 7, "end": 11}]}
+{"source_text": "Forward the attached form to Michael Anderson before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 36}, {"label": "SURNAME", "start": 37, "end": 45}]}
+{"source_text": "Please contact Rebecca Adams about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 22}, {"label": "SURNAME", "start": 23, "end": 28}]}
+{"source_text": "Meeting notes were shared with James Byrd yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 36}, {"label": "SURNAME", "start": 37, "end": 41}]}
+{"source_text": "Derrick Carter will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 7}, {"label": "SURNAME", "start": 8, "end": 14}]}
+{"source_text": "Forward the attached form to Kristina Baker before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 37}, {"label": "SURNAME", "start": 38, "end": 43}]}
+{"source_text": "Please contact Andre Black about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 20}, {"label": "SURNAME", "start": 21, "end": 26}]}
+{"source_text": "Meeting notes were shared with Elaine Thomas yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 37}, {"label": "SURNAME", "start": 38, "end": 44}]}
+{"source_text": "Christina Anderson will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 9}, {"label": "SURNAME", "start": 10, "end": 18}]}
+{"source_text": "Forward the attached form to Alejandro Peterson before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 38}, {"label": "SURNAME", "start": 39, "end": 47}]}
+{"source_text": "Please contact James King about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 20}, {"label": "SURNAME", "start": 21, "end": 25}]}
+{"source_text": "Meeting notes were shared with Kristi Smith yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 37}, {"label": "SURNAME", "start": 38, "end": 43}]}
+{"source_text": "Ashley Foster will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 6}, {"label": "SURNAME", "start": 7, "end": 13}]}
+{"source_text": "Forward the attached form to Joshua Nelson before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 35}, {"label": "SURNAME", "start": 36, "end": 42}]}
+{"source_text": "Please contact Deborah Wagner about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 22}, {"label": "SURNAME", "start": 23, "end": 29}]}
+{"source_text": "Meeting notes were shared with Andrew Burns yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 37}, {"label": "SURNAME", "start": 38, "end": 43}]}
+{"source_text": "Melissa Murphy will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 7}, {"label": "SURNAME", "start": 8, "end": 14}]}
+{"source_text": "Forward the attached form to James Moore before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 34}, {"label": "SURNAME", "start": 35, "end": 40}]}
+{"source_text": "Please contact Mary Tran about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 19}, {"label": "SURNAME", "start": 20, "end": 24}]}
+{"source_text": "Meeting notes were shared with Cody Brown yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 35}, {"label": "SURNAME", "start": 36, "end": 41}]}
+{"source_text": "Tonya Russell will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 5}, {"label": "SURNAME", "start": 6, "end": 13}]}
+{"source_text": "Forward the attached form to Mark Clarke before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 33}, {"label": "SURNAME", "start": 34, "end": 40}]}
+{"source_text": "Please contact Malik Ashley about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 20}, {"label": "SURNAME", "start": 21, "end": 27}]}
+{"source_text": "Meeting notes were shared with Timothy Collins yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 38}, {"label": "SURNAME", "start": 39, "end": 46}]}
+{"source_text": "Antonio Fleming will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 7}, {"label": "SURNAME", "start": 8, "end": 15}]}
+{"source_text": "Forward the attached form to David Hill before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 34}, {"label": "SURNAME", "start": 35, "end": 39}]}
+{"source_text": "Please contact Taylor Reed about the renewal.", "privacy_mask": [{"label": "GIVENNAME", "start": 15, "end": 21}, {"label": "SURNAME", "start": 22, "end": 26}]}
+{"source_text": "Meeting notes were shared with Stephanie Garza yesterday.", "privacy_mask": [{"label": "GIVENNAME", "start": 31, "end": 40}, {"label": "SURNAME", "start": 41, "end": 46}]}
+{"source_text": "Lisa Allen will follow up on the request next week.", "privacy_mask": [{"label": "GIVENNAME", "start": 0, "end": 4}, {"label": "SURNAME", "start": 5, "end": 10}]}
+{"source_text": "Forward the attached form to Melissa Paul before Friday.", "privacy_mask": [{"label": "GIVENNAME", "start": 29, "end": 36}, {"label": "SURNAME", "start": 37, "end": 41}]}
+{"source_text": "You can reach the account owner at martinezmelissa@example.net for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 62}]}
+{"source_text": "Please cc bankskenneth@example.com on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 34}]}
+{"source_text": "Confirmation was sent to kellyortiz@example.com this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 47}]}
+{"source_text": "You can reach the account owner at owensbecky@example.net for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 57}]}
+{"source_text": "Please cc melanie34@example.org on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 31}]}
+{"source_text": "Confirmation was sent to jason44@example.com this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 44}]}
+{"source_text": "You can reach the account owner at vrogers@example.com for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 54}]}
+{"source_text": "Please cc clarkcheryl@example.org on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 33}]}
+{"source_text": "Confirmation was sent to jthomas@example.net this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 44}]}
+{"source_text": "You can reach the account owner at marycannon@example.org for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 57}]}
+{"source_text": "Please cc wjohnston@example.com on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 31}]}
+{"source_text": "Confirmation was sent to sanchezandrea@example.com this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 50}]}
+{"source_text": "You can reach the account owner at washingtonlisa@example.org for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 61}]}
+{"source_text": "Please cc ithomas@example.com on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 29}]}
+{"source_text": "Confirmation was sent to silvawilliam@example.org this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 49}]}
+{"source_text": "You can reach the account owner at tanya74@example.org for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 54}]}
+{"source_text": "Please cc saundersemily@example.com on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 35}]}
+{"source_text": "Confirmation was sent to matthew48@example.com this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 46}]}
+{"source_text": "You can reach the account owner at christopher68@example.com for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 60}]}
+{"source_text": "Please cc veronica83@example.org on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 32}]}
+{"source_text": "Confirmation was sent to odonovan@example.org this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 45}]}
+{"source_text": "You can reach the account owner at briannawalker@example.com for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 60}]}
+{"source_text": "Please cc xmunoz@example.org on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 28}]}
+{"source_text": "Confirmation was sent to nelsonrussell@example.org this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 50}]}
+{"source_text": "You can reach the account owner at brenda15@example.org for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 55}]}
+{"source_text": "Please cc nancy69@example.org on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 29}]}
+{"source_text": "Confirmation was sent to webbvanessa@example.com this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 48}]}
+{"source_text": "You can reach the account owner at duane91@example.net for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 54}]}
+{"source_text": "Please cc charles13@example.com on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 31}]}
+{"source_text": "Confirmation was sent to taylorherman@example.net this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 49}]}
+{"source_text": "You can reach the account owner at elizabethsimmons@example.org for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 63}]}
+{"source_text": "Please cc omorgan@example.org on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 29}]}
+{"source_text": "Confirmation was sent to wendy49@example.org this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 44}]}
+{"source_text": "You can reach the account owner at iharris@example.com for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 54}]}
+{"source_text": "Please cc stevenflowers@example.net on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 35}]}
+{"source_text": "Confirmation was sent to williamsalexandria@example.org this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 55}]}
+{"source_text": "You can reach the account owner at eduardojohnson@example.net for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 61}]}
+{"source_text": "Please cc tammy12@example.org on the next update.", "privacy_mask": [{"label": "EMAIL", "start": 10, "end": 29}]}
+{"source_text": "Confirmation was sent to cdunn@example.com this morning.", "privacy_mask": [{"label": "EMAIL", "start": 25, "end": 42}]}
+{"source_text": "You can reach the account owner at jeffreyhaney@example.net for billing questions.", "privacy_mask": [{"label": "EMAIL", "start": 35, "end": 59}]}
+{"source_text": "Call 751.297.3961 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 17}]}
+{"source_text": "The support line is 001-723-269-8680x04453, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 42}]}
+{"source_text": "We tried reaching 769.397.3461 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 30}]}
+{"source_text": "Call (899)878-2194x59090 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 24}]}
+{"source_text": "The support line is 265.573.9659x038, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 36}]}
+{"source_text": "We tried reaching +1-417-626-8188 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 33}]}
+{"source_text": "Call (424)513-3911x63156 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 24}]}
+{"source_text": "The support line is 001-658-367-9703x4524, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 41}]}
+{"source_text": "We tried reaching 564-611-9256 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 30}]}
+{"source_text": "Call 5102569978 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 15}]}
+{"source_text": "The support line is 001-407-284-1043x9934, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 41}]}
+{"source_text": "We tried reaching +1-979-287-8277x657 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 37}]}
+{"source_text": "Call 480.756.5754 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 17}]}
+{"source_text": "The support line is 204.768.5935, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 32}]}
+{"source_text": "We tried reaching +1-384-906-1359 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 33}]}
+{"source_text": "Call 415-580-6974 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 17}]}
+{"source_text": "The support line is 001-662-958-2275, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 36}]}
+{"source_text": "We tried reaching 4872765036 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 28}]}
+{"source_text": "Call (604)425-7462x001 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 22}]}
+{"source_text": "The support line is 997-306-7857x300, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 36}]}
+{"source_text": "We tried reaching (225)592-4284 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 31}]}
+{"source_text": "Call +1-800-865-6962x1400 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 25}]}
+{"source_text": "The support line is 001-352-308-5255, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 36}]}
+{"source_text": "We tried reaching (318)444-5949x28537 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 37}]}
+{"source_text": "Call 369.680.2229 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 17}]}
+{"source_text": "The support line is (663)929-8456x889, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 37}]}
+{"source_text": "We tried reaching 001-388-425-5897x0366 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 39}]}
+{"source_text": "Call 001-413-737-2253x844 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 25}]}
+{"source_text": "The support line is 256-842-4441x2317, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 37}]}
+{"source_text": "We tried reaching 709.314.3010 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 30}]}
+{"source_text": "Call 001-282-378-0495 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 21}]}
+{"source_text": "The support line is 263-974-3486x761, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 36}]}
+{"source_text": "We tried reaching 001-277-872-8584 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 34}]}
+{"source_text": "Call +1-516-540-4782x558 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 24}]}
+{"source_text": "The support line is 001-836-867-0157x46547, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 42}]}
+{"source_text": "We tried reaching 322.316.1935x435 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 34}]}
+{"source_text": "Call 7105544821 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 15}]}
+{"source_text": "The support line is 872-617-9717, open until 6pm.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 20, "end": 32}]}
+{"source_text": "We tried reaching (796)265-7583 twice with no answer.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 18, "end": 31}]}
+{"source_text": "Call +1-964-267-6888x642 to reschedule the delivery.", "privacy_mask": [{"label": "TELEPHONENUM", "start": 5, "end": 24}]}
+{"source_text": "The charge on card 3566109286630990 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 213104246924123 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 34}]}
+{"source_text": "The charge on card 4865230681355132631 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 38}]}
+{"source_text": "Please verify card 2223224664416347 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 676276179592 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 31}]}
+{"source_text": "Please verify card 2227008800015717 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 3568509196954562 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 4215597360569 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 32}]}
+{"source_text": "The charge on card 379610287572787 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 34}]}
+{"source_text": "Please verify card 213138892715088 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 34}]}
+{"source_text": "The charge on card 3583736770362679 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 4126299751720151 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 5133605053379892 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 6510073585629832 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 4085580443561883932 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 38}]}
+{"source_text": "Please verify card 5560051502932571 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 343815872863490 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 34}]}
+{"source_text": "Please verify card 675990413949 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 31}]}
+{"source_text": "The charge on card 3515381772287559 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 4717773955526 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 32}]}
+{"source_text": "The charge on card 6587194783419566 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 2292907376972054 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 4438168649675880 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 3565937413018650 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 3509737577484246 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 213138032355878 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 34}]}
+{"source_text": "The charge on card 180043769907967 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 34}]}
+{"source_text": "Please verify card 38952153049703 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 33}]}
+{"source_text": "The charge on card 4046266783277622 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 4930758422739912 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 374618051041215 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 34}]}
+{"source_text": "Please verify card 570732976891 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 31}]}
+{"source_text": "The charge on card 377235281175387 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 34}]}
+{"source_text": "Please verify card 4130465914898085 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 6584427161417643 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 4116374914493483 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "The charge on card 3522302785731780 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 582570064177 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 31}]}
+{"source_text": "The charge on card 3563719244189864 was declined at checkout.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 35}]}
+{"source_text": "Please verify card 4416752158968 before the next billing cycle.", "privacy_mask": [{"label": "CREDITCARDNUMBER", "start": 19, "end": 32}]}
+{"source_text": "The appointment is confirmed for 2019-06-26.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2021-03-20.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 2013-10-20.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2023-10-04.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1996-04-27.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2004-04-25.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1975-11-15.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2026-10-01.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 2007-04-28.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 1988-11-30.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1993-09-25.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2001-06-14.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1974-12-31.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 1986-02-20.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1987-08-17.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 1976-01-31.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1991-09-18.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2008-11-22.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1970-01-19.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 1982-09-25.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 2017-05-12.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2017-12-21.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1976-11-25.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2015-09-15.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 2018-03-03.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 1976-04-17.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1989-05-20.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 1989-03-16.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 2003-03-21.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 1993-03-01.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 2021-04-14.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2016-03-30.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1972-10-04.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2014-10-23.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1996-11-26.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 1976-01-02.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 2020-05-01.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2008-08-25.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The appointment is confirmed for 1974-09-14.", "privacy_mask": [{"label": "DATE", "start": 33, "end": 43}]}
+{"source_text": "Documents must be submitted by 2011-02-17.", "privacy_mask": [{"label": "DATE", "start": 31, "end": 41}]}
+{"source_text": "The package was delivered to Jeremy Flats, Calebmouth.", "privacy_mask": [{"label": "CITY", "start": 43, "end": 53}, {"label": "STREET", "start": 29, "end": 41}]}
+{"source_text": "Our new office opens next month in Owenborough, on Victoria Lakes.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 46}, {"label": "STREET", "start": 51, "end": 65}]}
+{"source_text": "The package was delivered to David Shoal, North Joshua.", "privacy_mask": [{"label": "CITY", "start": 42, "end": 54}, {"label": "STREET", "start": 29, "end": 40}]}
+{"source_text": "Our new office opens next month in Martinburgh, on Li Canyon.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 46}, {"label": "STREET", "start": 51, "end": 60}]}
+{"source_text": "The package was delivered to Howell Orchard, Margaretberg.", "privacy_mask": [{"label": "CITY", "start": 45, "end": 57}, {"label": "STREET", "start": 29, "end": 43}]}
+{"source_text": "Our new office opens next month in Port Toddshire, on Miller Skyway.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 49}, {"label": "STREET", "start": 54, "end": 67}]}
+{"source_text": "The package was delivered to Kimberly Ridge, New Victor.", "privacy_mask": [{"label": "CITY", "start": 45, "end": 55}, {"label": "STREET", "start": 29, "end": 43}]}
+{"source_text": "Our new office opens next month in West Austin, on Rebecca Circle.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 46}, {"label": "STREET", "start": 51, "end": 65}]}
+{"source_text": "The package was delivered to Steven Inlet, Gomezborough.", "privacy_mask": [{"label": "CITY", "start": 43, "end": 55}, {"label": "STREET", "start": 29, "end": 41}]}
+{"source_text": "Our new office opens next month in East Jason, on Jennifer Expressway.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 45}, {"label": "STREET", "start": 50, "end": 69}]}
+{"source_text": "The package was delivered to Jill Views, West Thomasberg.", "privacy_mask": [{"label": "CITY", "start": 41, "end": 56}, {"label": "STREET", "start": 29, "end": 39}]}
+{"source_text": "Our new office opens next month in North Robert, on Marisa Row.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 47}, {"label": "STREET", "start": 52, "end": 62}]}
+{"source_text": "The package was delivered to Brianna Terrace, Lake Christine.", "privacy_mask": [{"label": "CITY", "start": 46, "end": 60}, {"label": "STREET", "start": 29, "end": 44}]}
+{"source_text": "Our new office opens next month in Huynhport, on Christopher Junctions.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 44}, {"label": "STREET", "start": 49, "end": 70}]}
+{"source_text": "The package was delivered to Gabrielle Cove, Garciaborough.", "privacy_mask": [{"label": "CITY", "start": 45, "end": 58}, {"label": "STREET", "start": 29, "end": 43}]}
+{"source_text": "Our new office opens next month in South Rodneychester, on Crawford Burg.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 54}, {"label": "STREET", "start": 59, "end": 72}]}
+{"source_text": "The package was delivered to Castillo Heights, South Donna.", "privacy_mask": [{"label": "CITY", "start": 47, "end": 58}, {"label": "STREET", "start": 29, "end": 45}]}
+{"source_text": "Our new office opens next month in New Brian, on Cox Lake.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 44}, {"label": "STREET", "start": 49, "end": 57}]}
+{"source_text": "The package was delivered to Schultz Orchard, Port Saraland.", "privacy_mask": [{"label": "CITY", "start": 46, "end": 59}, {"label": "STREET", "start": 29, "end": 44}]}
+{"source_text": "Our new office opens next month in East Sarah, on Martha Locks.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 45}, {"label": "STREET", "start": 50, "end": 62}]}
+{"source_text": "The package was delivered to Michael Mount, Julieport.", "privacy_mask": [{"label": "CITY", "start": 44, "end": 53}, {"label": "STREET", "start": 29, "end": 42}]}
+{"source_text": "Our new office opens next month in Greenmouth, on Robert Mountain.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 45}, {"label": "STREET", "start": 50, "end": 65}]}
+{"source_text": "The package was delivered to Smith Cliffs, Christopherton.", "privacy_mask": [{"label": "CITY", "start": 43, "end": 57}, {"label": "STREET", "start": 29, "end": 41}]}
+{"source_text": "Our new office opens next month in Robertview, on David Locks.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 45}, {"label": "STREET", "start": 50, "end": 61}]}
+{"source_text": "The package was delivered to Wright Overpass, East Michelleland.", "privacy_mask": [{"label": "CITY", "start": 46, "end": 63}, {"label": "STREET", "start": 29, "end": 44}]}
+{"source_text": "Our new office opens next month in Cherryfort, on Antonio Meadows.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 45}, {"label": "STREET", "start": 50, "end": 65}]}
+{"source_text": "The package was delivered to Davis Track, Joshuaside.", "privacy_mask": [{"label": "CITY", "start": 42, "end": 52}, {"label": "STREET", "start": 29, "end": 40}]}
+{"source_text": "Our new office opens next month in New Megan, on Washington Mountain.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 44}, {"label": "STREET", "start": 49, "end": 68}]}
+{"source_text": "The package was delivered to Smith Street, Bartonmouth.", "privacy_mask": [{"label": "CITY", "start": 43, "end": 54}, {"label": "STREET", "start": 29, "end": 41}]}
+{"source_text": "Our new office opens next month in West Ryanbury, on Bryan Hill.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 48}, {"label": "STREET", "start": 53, "end": 63}]}
+{"source_text": "The package was delivered to Collins Creek, Kentmouth.", "privacy_mask": [{"label": "CITY", "start": 44, "end": 53}, {"label": "STREET", "start": 29, "end": 42}]}
+{"source_text": "Our new office opens next month in East Gary, on Mccarty Points.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 44}, {"label": "STREET", "start": 49, "end": 63}]}
+{"source_text": "The package was delivered to Crystal Square, Joshuaton.", "privacy_mask": [{"label": "CITY", "start": 45, "end": 54}, {"label": "STREET", "start": 29, "end": 43}]}
+{"source_text": "Our new office opens next month in Deniseshire, on Flores Camp.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 46}, {"label": "STREET", "start": 51, "end": 62}]}
+{"source_text": "The package was delivered to Andrea Ferry, South Cameron.", "privacy_mask": [{"label": "CITY", "start": 43, "end": 56}, {"label": "STREET", "start": 29, "end": 41}]}
+{"source_text": "Our new office opens next month in Christopherland, on Smith Road.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 50}, {"label": "STREET", "start": 55, "end": 65}]}
+{"source_text": "The package was delivered to Jason Path, Matthewburgh.", "privacy_mask": [{"label": "CITY", "start": 41, "end": 53}, {"label": "STREET", "start": 29, "end": 39}]}
+{"source_text": "Our new office opens next month in South Nicolemouth, on Paul Landing.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 52}, {"label": "STREET", "start": 57, "end": 69}]}
+{"source_text": "The package was delivered to Isaac Pines, Port Davidside.", "privacy_mask": [{"label": "CITY", "start": 42, "end": 56}, {"label": "STREET", "start": 29, "end": 40}]}
+{"source_text": "Our new office opens next month in Griffinburgh, on Lopez Forge.", "privacy_mask": [{"label": "CITY", "start": 35, "end": 47}, {"label": "STREET", "start": 52, "end": 63}]}

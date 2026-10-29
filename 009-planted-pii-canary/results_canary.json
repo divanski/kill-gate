@@ -1,0 +1,174 @@
+{
+  "baseline": {
+    "en": {
+      "examples": 240,
+      "seconds": 11.0,
+      "recall": {
+        "GIVENNAME": {
+          "gold": 40,
+          "recalled": 39
+        },
+        "SURNAME": {
+          "gold": 40,
+          "recalled": 39
+        },
+        "EMAIL": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "TELEPHONENUM": {
+          "gold": 40,
+          "recalled": 30
+        },
+        "CREDITCARDNUMBER": {
+          "gold": 40,
+          "recalled": 28
+        },
+        "DATE": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "CITY": {
+          "gold": 40,
+          "recalled": 39
+        },
+        "STREET": {
+          "gold": 40,
+          "recalled": 35
+        },
+        "IDCARDNUM": {
+          "gold": 0,
+          "recalled": 0
+        }
+      }
+    },
+    "bg": {
+      "examples": 280,
+      "seconds": 8.6,
+      "recall": {
+        "GIVENNAME": {
+          "gold": 40,
+          "recalled": 39
+        },
+        "SURNAME": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "EMAIL": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "TELEPHONENUM": {
+          "gold": 40,
+          "recalled": 30
+        },
+        "CREDITCARDNUMBER": {
+          "gold": 40,
+          "recalled": 0
+        },
+        "DATE": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "CITY": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "STREET": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "IDCARDNUM": {
+          "gold": 40,
+          "recalled": 40
+        }
+      }
+    }
+  },
+  "phone_disabled": {
+    "en": {
+      "examples": 240,
+      "seconds": 6.5,
+      "recall": {
+        "GIVENNAME": {
+          "gold": 40,
+          "recalled": 39
+        },
+        "SURNAME": {
+          "gold": 40,
+          "recalled": 39
+        },
+        "EMAIL": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "TELEPHONENUM": {
+          "gold": 40,
+          "recalled": 0
+        },
+        "CREDITCARDNUMBER": {
+          "gold": 40,
+          "recalled": 28
+        },
+        "DATE": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "CITY": {
+          "gold": 40,
+          "recalled": 39
+        },
+        "STREET": {
+          "gold": 40,
+          "recalled": 35
+        },
+        "IDCARDNUM": {
+          "gold": 0,
+          "recalled": 0
+        }
+      }
+    },
+    "bg": {
+      "examples": 280,
+      "seconds": 7.5,
+      "recall": {
+        "GIVENNAME": {
+          "gold": 40,
+          "recalled": 39
+        },
+        "SURNAME": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "EMAIL": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "TELEPHONENUM": {
+          "gold": 40,
+          "recalled": 0
+        },
+        "CREDITCARDNUMBER": {
+          "gold": 40,
+          "recalled": 0
+        },
+        "DATE": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "CITY": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "STREET": {
+          "gold": 40,
+          "recalled": 40
+        },
+        "IDCARDNUM": {
+          "gold": 40,
+          "recalled": 40
+        }
+      }
+    }
+  }
+}
