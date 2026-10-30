@@ -1,0 +1,1926 @@
+{
+  "baseline": [
+    {
+      "subject": "professional_law",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "philosophy",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "world_religions",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "sociology",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_macroeconomics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_medicine",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "logical_fallacies",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "logical_fallacies",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_biology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "B.",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_european_history",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "conceptual_physics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "us_foreign_policy",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "\u30d1\u30f3ews",
+      "predicted": null,
+      "answer": 3,
+      "correct": false,
+      "unparseable": true
+    },
+    {
+      "subject": "professional_accounting",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_us_history",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_mathematics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "nutrition",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "human_sexuality",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "miscellaneous",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "philosophy",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_world_history",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_medicine",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "astronomy",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_medicine",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_microeconomics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_medicine",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "To determine the correct",
+      "predicted": 3,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "To solve this problem",
+      "predicted": 1,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_biology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "us_foreign_policy",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "business_ethics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_chemistry",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "conceptual_physics",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "astronomy",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "prehistory",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "haus C.",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "business_ethics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_computer_science",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_biology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "philosophy",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "nutrition",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_biology",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_microeconomics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_computer_science",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_government_and_politics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_computer_science",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_government_and_politics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_microeconomics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_physics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_macroeconomics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "us_foreign_policy",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_european_history",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_statistics",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_psychology",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_physics",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "miscellaneous",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "miscellaneous",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "human_aging",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "clinical_knowledge",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "human_aging",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_biology",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_medicine",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "prehistory",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_geography",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "world_religions",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_microeconomics",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "business_ethics",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "conceptual_physics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_biology",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "human_aging",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "prehistory",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "econometrics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_statistics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "security_studies",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "us_foreign_policy",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_european_history",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_macroeconomics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_biology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "conceptual_physics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "miscellaneous",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_us_history",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "clinical_knowledge",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_psychology",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    }
+  ],
+  "rank64_steps500": [
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "philosophy",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "world_religions",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "sociology",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_macroeconomics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_medicine",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "logical_fallacies",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "logical_fallacies",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_biology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_european_history",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "conceptual_physics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "us_foreign_policy",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_accounting",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_us_history",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_mathematics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "nutrition",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "human_sexuality",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "miscellaneous",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "philosophy",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_world_history",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_medicine",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "astronomy",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_medicine",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_microeconomics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_medicine",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_disputes",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_biology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "us_foreign_policy",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "business_ethics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_chemistry",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "conceptual_physics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "astronomy",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "prehistory",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "business_ethics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_computer_science",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_biology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "philosophy",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "nutrition",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_biology",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_microeconomics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_computer_science",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_government_and_politics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_computer_science",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_government_and_politics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_microeconomics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_physics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_macroeconomics",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "us_foreign_policy",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_psychology",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_european_history",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_statistics",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "elementary_mathematics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_psychology",
+      "raw_reply": "b",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_physics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "miscellaneous",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "miscellaneous",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "human_aging",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "clinical_knowledge",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "human_aging",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_biology",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "college_medicine",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "prehistory",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_geography",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "professional_law",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "world_religions",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_microeconomics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "business_ethics",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "conceptual_physics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_biology",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "human_aging",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "prehistory",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "moral_scenarios",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "econometrics",
+      "raw_reply": "D",
+      "predicted": 3,
+      "answer": 3,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_statistics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 0,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "security_studies",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "us_foreign_policy",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_european_history",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_macroeconomics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 2,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "college_biology",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "conceptual_physics",
+      "raw_reply": "B",
+      "predicted": 1,
+      "answer": 1,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "miscellaneous",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 3,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "marketing",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_us_history",
+      "raw_reply": "C",
+      "predicted": 2,
+      "answer": 2,
+      "correct": true,
+      "unparseable": false
+    },
+    {
+      "subject": "clinical_knowledge",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 1,
+      "correct": false,
+      "unparseable": false
+    },
+    {
+      "subject": "high_school_psychology",
+      "raw_reply": "A",
+      "predicted": 0,
+      "answer": 0,
+      "correct": true,
+      "unparseable": false
+    }
+  ]
+}

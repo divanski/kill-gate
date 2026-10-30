@@ -1,0 +1,44 @@
+{
+  "baseline": {
+    "domain": 0.6733333333333333,
+    "general": 0.55
+  },
+  "runs": [
+    {
+      "rank": 4,
+      "steps": 50,
+      "seed": 2026,
+      "domain_accuracy": 0.68,
+      "general_accuracy": 0.5416666666666666,
+      "domain_gain_pp": 0.666666666666671,
+      "retention_pct": 98.48484848484847
+    },
+    {
+      "rank": 4,
+      "steps": 50,
+      "seed": 4242,
+      "domain_accuracy": 0.7066666666666667,
+      "general_accuracy": 0.575,
+      "domain_gain_pp": 3.3333333333333326,
+      "retention_pct": 104.54545454545452
+    },
+    {
+      "rank": 64,
+      "steps": 500,
+      "seed": 2026,
+      "domain_accuracy": 0.9666666666666667,
+      "general_accuracy": 0.6083333333333333,
+      "domain_gain_pp": 29.333333333333332,
+      "retention_pct": 110.6060606060606
+    },
+    {
+      "rank": 64,
+      "steps": 500,
+      "seed": 4242,
+      "domain_accuracy": 0.9666666666666667,
+      "general_accuracy": 0.5833333333333334,
+      "domain_gain_pp": 29.333333333333332,
+      "retention_pct": 106.06060606060606
+    }
+  ]
+}

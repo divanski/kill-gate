@@ -1,0 +1,81 @@
+{
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "baseline": {
+    "domain_accuracy": 0.6733333333333333,
+    "general_accuracy": 0.55
+  },
+  "cells": [
+    {
+      "rank": 4,
+      "steps": 50,
+      "domain_accuracy": 0.6933333333333334,
+      "general_accuracy": 0.55,
+      "domain_gain_pp": 2.0000000000000018,
+      "retention_pct": 100.0
+    },
+    {
+      "rank": 4,
+      "steps": 200,
+      "domain_accuracy": 0.86,
+      "general_accuracy": 0.5583333333333333,
+      "domain_gain_pp": 18.666666666666664,
+      "retention_pct": 101.51515151515152
+    },
+    {
+      "rank": 4,
+      "steps": 500,
+      "domain_accuracy": 0.94,
+      "general_accuracy": 0.6083333333333333,
+      "domain_gain_pp": 26.66666666666666,
+      "retention_pct": 110.6060606060606
+    },
+    {
+      "rank": 16,
+      "steps": 50,
+      "domain_accuracy": 0.9066666666666666,
+      "general_accuracy": 0.5833333333333334,
+      "domain_gain_pp": 23.33333333333333,
+      "retention_pct": 106.06060606060606
+    },
+    {
+      "rank": 16,
+      "steps": 200,
+      "domain_accuracy": 0.9066666666666666,
+      "general_accuracy": 0.6,
+      "domain_gain_pp": 23.33333333333333,
+      "retention_pct": 109.09090909090908
+    },
+    {
+      "rank": 16,
+      "steps": 500,
+      "domain_accuracy": 0.96,
+      "general_accuracy": 0.575,
+      "domain_gain_pp": 28.666666666666664,
+      "retention_pct": 104.54545454545452
+    },
+    {
+      "rank": 64,
+      "steps": 50,
+      "domain_accuracy": 0.92,
+      "general_accuracy": 0.5666666666666667,
+      "domain_gain_pp": 24.66666666666667,
+      "retention_pct": 103.03030303030303
+    },
+    {
+      "rank": 64,
+      "steps": 200,
+      "domain_accuracy": 0.96,
+      "general_accuracy": 0.5666666666666667,
+      "domain_gain_pp": 28.666666666666664,
+      "retention_pct": 103.03030303030303
+    },
+    {
+      "rank": 64,
+      "steps": 500,
+      "domain_accuracy": 0.9,
+      "general_accuracy": 0.6,
+      "domain_gain_pp": 22.666666666666668,
+      "retention_pct": 109.09090909090908
+    }
+  ]
+}
